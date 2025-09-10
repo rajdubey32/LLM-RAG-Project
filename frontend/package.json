@@ -1,0 +1,37 @@
+{
+  "name": "learning-resource-finder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.4",
+    "axios": "^1.6.0",
+    "react-router-dom": "^6.18.0",
+    "lucide-react": "^0.292.0",
+    "next": "15.5.2",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "tailwind-merge": "3.3.1",
+    "tailwindcss-animate": "1.0.7",
+    "google-auth-library": "^9.0.0",
+    "react-error-boundary": "6.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.5.0",
+    "@types/node": "24.3.1",
+    "typescript": "5.9.2"
+  }
+}

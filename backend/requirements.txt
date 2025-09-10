@@ -1,0 +1,15 @@
+# fastapi==0.95.2
+# uvicorn[standard]==0.22.0
+# python-dotenv==1.0.0
+# openai==1.106.1
+# numpy==1.26.4
+# pdfminer.six==20240728
+# python-multipart==0.0.6
+# youtube-transcript-api==0.7.1
+# faiss-cpu==1.7.4   # optional; on Windows it might fail. If it does, just remove and use fallback
+
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-dotenv==1.0.0
+openai==1.106.1
+numpy>=2.1.0
